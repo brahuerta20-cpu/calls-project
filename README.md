@@ -4,7 +4,7 @@ Una empresa de telecomunicaciones necesitaba evaluar el desempeño de los operad
 
 Desarrollé un análisis integral de datos que permitió identificar operadores ineficaces mediante la definición de métricas de desempeño, el análisis estadístico y la validación de hipótesis. El proyecto incluye la preparación y limpieza de datos, la construcción de indicadores clave, la detección de operadores con bajo rendimiento y la generación de recomendaciones orientadas a mejorar la eficiencia operativa.
 
-# Herraminetas y tecnologías.
+# Herramientas y tecnologías.
 
 - Excel: Archivo CSV
 - Librerías de Python (pandas, numpy, matplotlib, seaborn, scipy)
